@@ -34,6 +34,16 @@
 [<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>](mailto:santosmatheusimd@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/matheus-rodrigues-915300226/)
 
+---
+<!-- GitHub Contribution Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Rodrigues1&theme=dracula&hide_border=true" alt="GitHub Streak" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?Matheus-Rodrigues1&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues1&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="GitHub Top Languages" /><br><br>
+  <img src="https://github.com/Matheus-Rodrigues1/Matheus-Rodrigues1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /><br>
+</p>
+
+
 
 
 
