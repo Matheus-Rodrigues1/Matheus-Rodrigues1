@@ -34,21 +34,6 @@
 [<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>](mailto:santosmatheusimd@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/matheus-rodrigues-915300226/)
 
----
-<p align="center">
-  <img src="https://github.com/Matheus-Rodrigues1/Matheus-Rodrigues1/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues1&layout=compact&hide=html" alt="Top languages">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues1&show_icons=true" alt="GitHub stats">
-    </td>
-  </tr>  
-</table>
 
 
 
