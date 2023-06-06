@@ -6,6 +6,7 @@
 - Cloud 
 - Database 
 - Python 
+- Terraform
 
 ---
 <div style="display: flex;">
