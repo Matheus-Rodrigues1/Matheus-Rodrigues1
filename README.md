@@ -5,8 +5,8 @@
 - Infrastructure 
 - Cloud 
 - Database 
-- Python 
-- Terraform
+- Java
+- Spring
 
 ---
 <div style="display: flex;">
@@ -17,14 +17,15 @@
 ---
 ### Languages:
 <p align="left">
-  <img src="https://camo.githubusercontent.com/65b616ed4448c46e59c11345a1d49a01adc6d51f9bd6e93ee61d29573e04c597/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667" width="75" height="75" alt="Java Logo">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75" alt="python-original.svg">
+  <img src="https://w7.pngwing.com/pngs/34/978/png-transparent-java-object-oriented-jvm-java-logo-applications-web-services-3d-icon.png" width="75" height="75" alt="Java Logo">
+  <img src="https://images.seeklogo.com/logo-png/38/1/spring-boot-logo-png_seeklogo-385503.png" width="75" height="75" alt="Spring Boot Logo">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75" alt="Python Logo">
 </p>
 
 ### Database:
 <p align="left">
-  <img src="https://camo.githubusercontent.com/8f590db3b55cec785ea11927bdeca777bb8d69807e7513fd89b35b34d3bbe174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" width="120" height="50" alt="PostgreSQL Logo">
-  <img src="https://dbdb.io/media/logos/h2-logo.svg" width="65" height="50" alt="H2 Logo">
+  <img src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" width="120" height="50" alt="SQL Logo">
+  <img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/postgresql-adesivo-sticker.png" width="65" height="50" alt="PostgreSQL Logo">
 </p>
 
 ---
@@ -32,12 +33,3 @@
 
 [<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>](mailto:santosmatheusimd@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/matheus-rodrigues-915300226/)
-
-
-
-
-
-
-
-
-
