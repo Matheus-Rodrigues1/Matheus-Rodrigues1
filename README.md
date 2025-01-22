@@ -15,16 +15,16 @@
 </div>
 
 ---
-### Languages:
+### Languages/Frameworks:
 <p align="left">
   <img src="https://w7.pngwing.com/pngs/34/978/png-transparent-java-object-oriented-jvm-java-logo-applications-web-services-3d-icon.png" width="75" height="75" alt="Java Logo">
-  <img src="https://images.seeklogo.com/logo-png/38/1/spring-boot-logo-png_seeklogo-385503.png" width="75" height="75" alt="Spring Boot Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="75" height="75" alt="Spring Boot Logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75" alt="Python Logo">
 </p>
 
 ### Database:
 <p align="left">
-  <img src="https://seeklogo.com/images/S/sql-logo-C370DEA066-seeklogo.com.png" width="120" height="50" alt="SQL Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="120" height="50" alt="SQL Logo">
   <img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/postgresql-adesivo-sticker.png" width="65" height="50" alt="PostgreSQL Logo">
 </p>
 
