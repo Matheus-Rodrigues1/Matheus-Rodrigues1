@@ -4,7 +4,8 @@
 - Computer Science Student 🧑🏼
 - Infrastructure 
 - Cloud 
-- Database 
+- Database
+- Python 
 - Java
 - Spring
 
