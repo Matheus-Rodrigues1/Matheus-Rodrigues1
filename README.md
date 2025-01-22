@@ -1,7 +1,7 @@
 # Matheus Rodrigues
 
 ## About Me:
-- Computer Science Student 🧑🏼
+- Computer Science Student 
 - Infrastructure 
 - Cloud 
 - Database
