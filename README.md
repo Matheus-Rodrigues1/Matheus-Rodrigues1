@@ -18,8 +18,8 @@
 ---
 ### Languages/Frameworks:
 <p align="left">
-  <img src="https://w7.pngwing.com/pngs/34/978/png-transparent-java-object-oriented-jvm-java-logo-applications-web-services-3d-icon.png" width="75" height="75" alt="Java Logo">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" height="75" alt="Python Logo">
+  <img src="https://w7.pngwing.com/pngs/34/978/png-transparent-java-object-oriented-jvm-java-logo-applications-web-services-3d-icon.png" width="75" height="75" alt="Java Logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="75" height="75" alt="Spring Boot Logo">
 </p>
 
