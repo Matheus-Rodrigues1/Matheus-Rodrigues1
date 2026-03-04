@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Rodrigues! 👋
 
-### 🚀 Especialista em Infraestrutura, Cloud & DevOps
+### 🚀 Analista de Infraestrutura, Cloud & DevOps
 Sou estudante de Ciência da Computação com foco em viabilizar operações escaláveis e resilientes. Atualmente, dedico-me à gestão de ambientes híbridos e à orquestração de microsserviços, garantindo que a tecnologia seja um acelerador para o negócio.
 
 ---
@@ -47,15 +47,6 @@ Sou estudante de Ciência da Computação com foco em viabilizar operações esc
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/AWS_Aurora-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Aurora">
 </p>
-
----
-
-### 📊 Estatísticas do GitHub:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Rodrigues1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Rodrigues1&layout=compact&theme=dracula" alt="Top Languages" height="180">
-</div>
 
 ---
 
