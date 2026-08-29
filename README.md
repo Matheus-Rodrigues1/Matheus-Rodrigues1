@@ -1,7 +1,7 @@
 # Olá, eu sou o Matheus Rodrigues! 👋
 
 ### 🚀 Engenheiro DevOps / SRE | Cloud, Kubernetes & Automação de Infraestrutura
-Estudante de Ciência da Computação com atuação em ambientes críticos de produção, especializado em AWS e Azure, Kubernetes (EKS, AKS, Rancher) e automação de infraestrutura em escala. Trabalho ponta a ponta em plataformas cloud-native, da arquitetura multi-conta ao GitOps, observabilidade e resposta a incidentes, sempre com foco em segurança, rastreabilidade e least privilege.
+Atuação em ambientes críticos de produção, especializado em AWS e Azure, Kubernetes (EKS, AKS, Rancher) e automação de infraestrutura em escala. Trabalho ponta a ponta em plataformas cloud-native, da arquitetura multi-conta ao GitOps, observabilidade e resposta a incidentes, sempre com foco em segurança, rastreabilidade e least privilege.
 
 ---
 
