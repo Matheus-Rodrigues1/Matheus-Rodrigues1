@@ -1,18 +1,18 @@
 # Olá, eu sou o Matheus Rodrigues! 👋
 
 ### 🚀 Engenheiro DevOps / SRE | Cloud, Kubernetes & Automação de Infraestrutura
-Estudante de Ciência da Computação com atuação em ambientes críticos de produção, especializado em AWS e Azure, Kubernetes (EKS, AKS, Rancher) e automação de infraestrutura em escala. Trabalho ponta a ponta em plataformas cloud-native — de arquitetura multi-conta a GitOps, observabilidade e resposta a incidentes — sempre com foco em segurança, rastreabilidade e least privilege.
+Estudante de Ciência da Computação com atuação em ambientes críticos de produção, especializado em AWS e Azure, Kubernetes (EKS, AKS, Rancher) e automação de infraestrutura em escala. Trabalho ponta a ponta em plataformas cloud-native, da arquitetura multi-conta ao GitOps, observabilidade e resposta a incidentes, sempre com foco em segurança, rastreabilidade e least privilege.
 
 ---
 
 ### 🛠️ No que venho trabalhando:
 - **Cloud & Orquestração:** Administração de ambientes AWS e Azure, com clusters Kubernetes (EKS/AKS), Docker e ECS. Arquitetura multi-conta/multi-subscription com isolamento por função/ambiente. Service Mesh com Istio para segurança e observabilidade.
 - **GitOps & IaC:** Repositórios segregados por responsabilidade (infra, plataforma, aplicações), com Git como fonte única da verdade. Terraform, Terragrunt e Ansible para provisionamento; fluxo baseado em PR via Atlantis (plan/apply com aprovação + checks via Checkov); ArgoCD no padrão App of Apps (self-heal/prune).
-- **CI/CD & Addons de Plataforma:** Pipelines com GitHub Actions e Helm. Gestão de addons de cluster via GitOps — cert-manager, External Secrets, Karpenter (autoscaling e otimização de custos).
+- **CI/CD & Addons de Plataforma:** Pipelines com GitHub Actions e Helm. Gestão de addons de cluster via GitOps: cert-manager, External Secrets, Karpenter (autoscaling e otimização de custos).
 - **Observabilidade:** Datadog para APM, traces e correlação de incidentes; OpenTelemetry para instrumentação vendor-neutral; stack complementar com Prometheus, Grafana, Zabbix e Loki/Promtail.
 - **Bancos de Dados:** Tuning e alta disponibilidade para PostgreSQL, MySQL e AWS Aurora.
 - **Segurança, Redes & Confiabilidade:** Topologias LAN/WAN, backup, patch management, DR e alertas automatizados. Troubleshooting de incidentes de alta severidade e RCA, com automação em Python e Shell Script.
-- **IA aplicada ao workflow:** Cursor e Claude Code no dia a dia — desde geração de manifests/módulos Terraform até troubleshooting, RCA de incidentes e rascunhos de pipelines e políticas de segurança (IAM, Checkov).
+- **IA aplicada ao workflow:** Cursor e Claude Code no dia a dia, desde geração de manifests/módulos Terraform até troubleshooting, RCA de incidentes e rascunhos de pipelines e políticas de segurança (IAM, Checkov).
 
 ---
 
